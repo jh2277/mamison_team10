@@ -1,5 +1,4 @@
 # mommyson_team10
-## Sparta NETFLIX Clone Coding
 ![GitHub last commit](https://img.shields.io/github/last-commit/jinyoung26/mamison_team10?color=FF6347&style=plastic)
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fy3txW%2FbtrsH8YMrDN%2FDk9l5gN3C7imoBjA9KmwJK%2Fimg.png)
